@@ -48,8 +48,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LPH8FQqDKPCY6DeMR6R--16" value="线下实体" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="LPH8FQqDKPCY6DeMR6R--16" value="市场巡查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
