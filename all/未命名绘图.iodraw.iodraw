@@ -99,7 +99,7 @@
         <mxCell id="LPH8FQqDKPCY6DeMR6R--37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LPH8FQqDKPCY6DeMR6R--34" target="LPH8FQqDKPCY6DeMR6R--36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LPH8FQqDKPCY6DeMR6R--38" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LPH8FQqDKPCY6DeMR6R--37">
+        <mxCell id="LPH8FQqDKPCY6DeMR6R--38" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LPH8FQqDKPCY6DeMR6R--37">
           <mxGeometry x="-0.12" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
