@@ -23,6 +23,9 @@
         <mxCell id="LPH8FQqDKPCY6DeMR6R--1" value="监管启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LPH8FQqDKPCY6DeMR6R--17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LPH8FQqDKPCY6DeMR6R--2" target="LPH8FQqDKPCY6DeMR6R--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LPH8FQqDKPCY6DeMR6R--2" value="线下实体" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -44,6 +47,9 @@
               <mxPoint x="231" y="134" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LPH8FQqDKPCY6DeMR6R--16" value="线下实体" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
