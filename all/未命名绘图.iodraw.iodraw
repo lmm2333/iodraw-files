@@ -4,17 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LPH8FQqDKPCY6DeMR6R--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LPH8FQqDKPCY6DeMR6R--1" target="LPH8FQqDKPCY6DeMR6R--2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="414" y="130" />
-              <mxPoint x="340" y="130" />
-              <mxPoint x="340" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LPH8FQqDKPCY6DeMR6R--1" value="监管启动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LPH8FQqDKPCY6DeMR6R--2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="170" width="120" height="60" as="geometry" />
