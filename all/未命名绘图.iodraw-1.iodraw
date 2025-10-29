@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Ommo3T0NADT-jCsAd1CG">
-    <mxGraphModel dx="1282" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2109" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fudH5zIDhzT4PYVJ6msW-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fudH5zIDhzT4PYVJ6msW-6" target="fudH5zIDhzT4PYVJ6msW-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint y="281" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fudH5zIDhzT4PYVJ6msW-13" value="&lt;pre style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); outline: none; border: 0px solid; margin: 0px; padding: 0px; font-family: var(--md-box-global-font-family-mono); overflow-wrap: normal; font-feature-settings: var(--default-mono-font-feature-settings,normal); font-size: 1em; font-variation-settings: var(--default-mono-font-variation-settings,normal); --code-text_v3: #000000d9; --code-doc_v3: #00000073; --code-Link_v3: #2f74ff; --code-number_v3: #e54595; --code-keycontrol_v3: #9952e1; --code-function_v3: #ff5d4d; --code-variable_v3: #000000d9; --code-parameter_v3: #4da621; --code-attributes_v3: #c70; --code-selection-bg-color: #a9d6ff; background: var(--color-bg-page); word-break: normal; hyphens: none; line-height: 1.5; tab-size: 4; overflow: auto; border-radius: 6px; overflow-anchor: auto; width: fit-content; text-align: start;&quot; class=&quot;container-_HmLba language-mermaid&quot;&gt;&lt;code style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); outline: none; border: 0px solid; margin: 0px; padding: 0px; font-family: var(--md-box-global-font-family-mono); font-feature-settings: var(--default-mono-font-feature-settings,normal); font-size: 13px; font-variation-settings: var(--default-mono-font-variation-settings,normal); background: transparent; border-radius: 4px; word-break: normal; word-spacing: normal; overflow-wrap: normal; hyphens: none; line-height: 1.5; tab-size: 4; overflow-anchor: auto;&quot; class=&quot;language-mermaid&quot;&gt;&lt;span style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); outline: none; border: 0px solid; margin: 0px; padding: 0px; overflow-anchor: auto; background: transparent;&quot; class=&quot;token text string&quot;&gt;负→极性码0&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fudH5zIDhzT4PYVJ6msW-12">
           <mxGeometry x="-0.2387" relative="1" as="geometry">
@@ -39,7 +43,7 @@
           <mxGeometry x="310" y="251.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fudH5zIDhzT4PYVJ6msW-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="-60" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
