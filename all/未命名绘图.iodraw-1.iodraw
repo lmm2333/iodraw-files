@@ -39,9 +39,6 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-5" target="QaKgMxfXwg7QrVKUlyT3-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QaKgMxfXwg7QrVKUlyT3-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-5" target="QaKgMxfXwg7QrVKUlyT3-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-5" value="信号采集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -102,14 +99,13 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-32" target="QaKgMxfXwg7QrVKUlyT3-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="680" />
               <mxPoint x="340" y="680" />
               <mxPoint x="340" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-32" value="DS3231高精度实时时钟芯片：提供年/月/日/时/分/秒)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
