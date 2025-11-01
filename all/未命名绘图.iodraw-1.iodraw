@@ -168,7 +168,7 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-66" value="历史查询键&lt;div&gt;连接P3.1&lt;/div&gt;&lt;div&gt;触发外部中断1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="398.82" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QaKgMxfXwg7QrVKUlyT3-67" value="红色LED&lt;div&gt;连接单片机P3.6引脚，低电平触发&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-67" value="报警关闭键&lt;div&gt;连接P3.2，&lt;/div&gt;&lt;div&gt;触发外部中断2&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="498.82" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-68" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
