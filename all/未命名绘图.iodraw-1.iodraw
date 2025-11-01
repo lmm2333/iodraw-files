@@ -30,6 +30,9 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-2" value="供电层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-4" target="QaKgMxfXwg7QrVKUlyT3-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-4" value="信号采集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -62,6 +65,9 @@
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-16" value="供电层为核心及各模块供电" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-19" value="信号采集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
