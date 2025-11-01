@@ -71,6 +71,9 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-16" value="供电层为核心及各模块供电" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="580" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-19" target="QaKgMxfXwg7QrVKUlyT3-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-19" value="AT24C02 EEPROM&lt;div&gt;芯片，I2C总线连接P3.4/SDA、P3.5/SC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -203,6 +206,15 @@
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.49;entryY=0.086;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-40" target="QaKgMxfXwg7QrVKUlyT3-70">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-76" target="QaKgMxfXwg7QrVKUlyT3-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-76" value="存储格式&lt;div&gt;3字节/条数据，含“浓度整数部分+浓度小数部分+时间压缩码”&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-78" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
