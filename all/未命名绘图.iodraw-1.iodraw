@@ -39,6 +39,11 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-5" target="QaKgMxfXwg7QrVKUlyT3-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-5" value="信号采集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
         </mxCell>
