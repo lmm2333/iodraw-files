@@ -109,6 +109,9 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-32" value="DS3231高精度实时时钟芯片：提供年/月/日/时/分/秒)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-40" value="数据存储层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
