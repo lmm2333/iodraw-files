@@ -68,6 +68,11 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-16" target="QaKgMxfXwg7QrVKUlyT3-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="839.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-16" value="供电层为核心及各模块供电" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="580" width="120" height="60" as="geometry" />
         </mxCell>
