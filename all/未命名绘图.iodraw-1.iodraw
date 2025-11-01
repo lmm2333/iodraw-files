@@ -133,7 +133,7 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-46" value="蜂鸣器&lt;div&gt;连接单片机P3.3引脚，低电平触发&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QaKgMxfXwg7QrVKUlyT3-48" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-48" value="红色LED&lt;div&gt;连接单片机P3.6引脚，低电平触发&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
