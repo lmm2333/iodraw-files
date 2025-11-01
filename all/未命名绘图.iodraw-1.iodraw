@@ -78,8 +78,8 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-21" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;&quot;&gt;MQ-3&lt;/font&gt;半导体酒精传感器&lt;/font&gt;&lt;div&gt;酒精浓度→电阻变化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QaKgMxfXwg7QrVKUlyT3-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-23" value="C12信号调理电路&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;加热回路+分压检测+RC滤波+LM324电压跟随&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
