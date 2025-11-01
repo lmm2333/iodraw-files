@@ -7,7 +7,7 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-1" target="QaKgMxfXwg7QrVKUlyT3-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="150" />
+              <mxPoint x="340" y="150" />
               <mxPoint x="100" y="150" />
             </Array>
           </mxGeometry>
@@ -18,8 +18,10 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-1" target="QaKgMxfXwg7QrVKUlyT3-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QaKgMxfXwg7QrVKUlyT3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-1" target="QaKgMxfXwg7QrVKUlyT3-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-1" value="单片机系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
@@ -44,9 +46,6 @@
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-5" value="信号采集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QaKgMxfXwg7QrVKUlyT3-6" value="数据存储层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-10" target="QaKgMxfXwg7QrVKUlyT3-12">
           <mxGeometry relative="1" as="geometry" />
