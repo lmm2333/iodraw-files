@@ -71,7 +71,7 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-16" value="供电层为核心及各模块供电" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QaKgMxfXwg7QrVKUlyT3-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-19" value="AT24C02 EEPROM&lt;div&gt;芯片，I2C总线连接P3.4/SDA、P3.5/SC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-21" target="QaKgMxfXwg7QrVKUlyT3-23">
