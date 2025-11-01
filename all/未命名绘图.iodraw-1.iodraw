@@ -7,7 +7,7 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-1" target="QaKgMxfXwg7QrVKUlyT3-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="334" y="150" />
+              <mxPoint x="420" y="150" />
               <mxPoint x="100" y="150" />
             </Array>
           </mxGeometry>
@@ -99,7 +99,7 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-28" value="度信号经ADC传至单片机P1口" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QaKgMxfXwg7QrVKUlyT3-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-32" value="DS3231高精度实时时钟芯片：提供年/月/日/时/分/秒)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
