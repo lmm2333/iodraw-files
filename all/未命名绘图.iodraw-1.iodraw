@@ -36,6 +36,9 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-4" value="功能输出层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-5" target="QaKgMxfXwg7QrVKUlyT3-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-5" value="信号采集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="170" width="120" height="60" as="geometry" />
         </mxCell>
@@ -68,6 +71,9 @@
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-19" value="信号采集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-21" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;&quot;&gt;MQ-3&lt;/font&gt;半导体酒精传感器&lt;/font&gt;&lt;div&gt;酒精浓度→电阻变化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
