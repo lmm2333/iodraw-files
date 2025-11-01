@@ -241,8 +241,8 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-82" value="功能输出层&lt;div&gt;结果交互&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QaKgMxfXwg7QrVKUlyT3-84" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="760" width="120" height="60" as="geometry" />
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-84" value="LCD1602液晶屏，&lt;span style=&quot;background-color: initial;&quot;&gt;4位接口连接单片机P2口&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
