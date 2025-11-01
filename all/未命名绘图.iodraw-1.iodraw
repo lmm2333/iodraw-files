@@ -113,7 +113,7 @@
           <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-41" value="LCD1602液晶屏：4位接口连接单片机P2口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-42" target="QaKgMxfXwg7QrVKUlyT3-41">
           <mxGeometry relative="1" as="geometry" />
@@ -122,34 +122,34 @@
           <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-46" value="蜂鸣器&lt;div&gt;连接单片机P3.3引脚，低电平触发&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-48" value="红色LED&lt;div&gt;连接单片机P3.6引脚，低电平触发&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-52" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="560" as="sourcePoint" />
-            <mxPoint x="660" y="260" as="targetPoint" />
+            <mxPoint x="660" y="580" as="sourcePoint" />
+            <mxPoint x="660" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-53" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="560" as="sourcePoint" />
-            <mxPoint x="830" y="560" as="targetPoint" />
+            <mxPoint x="660" y="580" as="sourcePoint" />
+            <mxPoint x="830" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="260" as="sourcePoint" />
-            <mxPoint x="830" y="260" as="targetPoint" />
+            <mxPoint x="660" y="280" as="sourcePoint" />
+            <mxPoint x="830" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="740" y="220" />
+              <mxPoint x="740" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-56" value="报警模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="705" y="238" width="70" height="30" as="geometry" />
+          <mxGeometry x="705" y="258" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
