@@ -81,7 +81,7 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-23" target="QaKgMxfXwg7QrVKUlyT3-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QaKgMxfXwg7QrVKUlyT3-23" value="C12信号调理电路&amp;nbsp; &amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;加热回路+分压检测+RC滤波+LM324电压跟随&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-23" value="C12&amp;nbsp; &amp;nbsp;信号调理电路&lt;span style=&quot;background-color: initial;&quot;&gt;加热回路+分压检测+RC滤波+LM324电压跟随&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-25" value="C13&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;ADC0832模数转换器：模拟电压→8位数字信号)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
