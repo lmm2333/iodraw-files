@@ -127,8 +127,14 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-42" value="“Alcohol: XX.XX ppm“&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Time: yy-dd-ss&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;报警时追加“ALARM!”&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QaKgMxfXwg7QrVKUlyT3-46" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-46" target="QaKgMxfXwg7QrVKUlyT3-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-46" value="蜂鸣器&lt;div&gt;连接单片机P3.3引脚，低电平触发&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-48" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
