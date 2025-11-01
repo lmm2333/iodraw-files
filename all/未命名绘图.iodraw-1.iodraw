@@ -103,13 +103,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="680" />
-              <mxPoint x="420" y="680" />
-              <mxPoint x="420" y="210" />
+              <mxPoint x="340" y="680" />
+              <mxPoint x="340" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-32" value="DS3231高精度实时时钟芯片：提供年/月/日/时/分/秒)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
