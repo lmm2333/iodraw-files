@@ -128,6 +128,9 @@
             <mxPoint x="740" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-40" target="QaKgMxfXwg7QrVKUlyT3-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-40" value="信号采集层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -211,9 +214,6 @@
               <mxPoint x="780" y="270" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="QaKgMxfXwg7QrVKUlyT3-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.49;entryY=0.086;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-40" target="QaKgMxfXwg7QrVKUlyT3-70">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-76" target="QaKgMxfXwg7QrVKUlyT3-78">
           <mxGeometry relative="1" as="geometry" />
