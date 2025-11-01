@@ -112,8 +112,14 @@
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-40" value="数据存储层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QaKgMxfXwg7QrVKUlyT3-41" target="QaKgMxfXwg7QrVKUlyT3-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QaKgMxfXwg7QrVKUlyT3-41" value="LCD1602液晶屏：4位接口连接单片机P2口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QaKgMxfXwg7QrVKUlyT3-42" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
