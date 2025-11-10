@@ -44,6 +44,9 @@
         <mxCell id="LOavwl50uyWM5BjMuYRT-7" value="国内外散货码头设计研究现状分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LOavwl50uyWM5BjMuYRT-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LOavwl50uyWM5BjMuYRT-9" target="LOavwl50uyWM5BjMuYRT-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LOavwl50uyWM5BjMuYRT-9" value="淤泥质海岸/低碳技术/粉尘治理研究进展总结" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -67,6 +70,9 @@
         </mxCell>
         <mxCell id="LOavwl50uyWM5BjMuYRT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LOavwl50uyWM5BjMuYRT-13" target="LOavwl50uyWM5BjMuYRT-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOavwl50uyWM5BjMuYRT-21" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
