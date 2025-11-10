@@ -32,8 +32,14 @@
         <mxCell id="LOavwl50uyWM5BjMuYRT-3" value="实地调研" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LOavwl50uyWM5BjMuYRT-7" value="文献梳理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="LOavwl50uyWM5BjMuYRT-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LOavwl50uyWM5BjMuYRT-7" target="LOavwl50uyWM5BjMuYRT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LOavwl50uyWM5BjMuYRT-7" value="国内外散货码头设计研究现状分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LOavwl50uyWM5BjMuYRT-9" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
