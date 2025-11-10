@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LOavwl50uyWM5BjMuYRT-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LOavwl50uyWM5BjMuYRT-1" target="LOavwl50uyWM5BjMuYRT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LOavwl50uyWM5BjMuYRT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
         </mxCell>
@@ -11,7 +14,7 @@
           <mxGeometry x="294" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LOavwl50uyWM5BjMuYRT-3" value="实地调研" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
