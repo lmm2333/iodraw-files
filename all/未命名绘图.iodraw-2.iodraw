@@ -63,7 +63,7 @@
           <mxGeometry x="510" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LOavwl50uyWM5BjMuYRT-19" value="货物吞吐量/设备利用率/环保达标情况" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LOavwl50uyWM5BjMuYRT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LOavwl50uyWM5BjMuYRT-13" target="LOavwl50uyWM5BjMuYRT-19">
           <mxGeometry relative="1" as="geometry" />
