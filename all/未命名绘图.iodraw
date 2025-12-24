@@ -13,6 +13,9 @@
         <mxCell id="7_ssiQSzBdo_ZPyAhcss-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7_ssiQSzBdo_ZPyAhcss-1" target="7_ssiQSzBdo_ZPyAhcss-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ktSjOJYq_ZgmOM8Um6I2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_ssiQSzBdo_ZPyAhcss-1" target="ktSjOJYq_ZgmOM8Um6I2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7_ssiQSzBdo_ZPyAhcss-1" value="&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; letter-spacing: 0.05pt;&quot;&gt;换电站管理系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="30" width="140" height="60" as="geometry" />
         </mxCell>
@@ -84,6 +87,9 @@
         </mxCell>
         <mxCell id="ktSjOJYq_ZgmOM8Um6I2-1" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;版本更新&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ktSjOJYq_ZgmOM8Um6I2-3" value="&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;数据安全与维护&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
