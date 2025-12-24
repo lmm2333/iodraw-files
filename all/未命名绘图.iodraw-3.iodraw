@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7_ssiQSzBdo_ZPyAhcss-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_ssiQSzBdo_ZPyAhcss-1" target="7_ssiQSzBdo_ZPyAhcss-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_ssiQSzBdo_ZPyAhcss-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_ssiQSzBdo_ZPyAhcss-1" target="7_ssiQSzBdo_ZPyAhcss-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7_ssiQSzBdo_ZPyAhcss-1" value="&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; letter-spacing: 0.05pt;&quot;&gt;换电站管理系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="40" width="140" height="60" as="geometry" />
         </mxCell>
@@ -11,7 +17,7 @@
           <mxGeometry x="230" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7_ssiQSzBdo_ZPyAhcss-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
