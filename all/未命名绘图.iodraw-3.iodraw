@@ -50,7 +50,7 @@
           <mxGeometry x="530" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7_ssiQSzBdo_ZPyAhcss-22" value="&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;用户管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
