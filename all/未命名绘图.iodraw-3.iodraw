@@ -10,15 +10,8 @@
         <mxCell id="7_ssiQSzBdo_ZPyAhcss-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_ssiQSzBdo_ZPyAhcss-1" target="7_ssiQSzBdo_ZPyAhcss-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7_ssiQSzBdo_ZPyAhcss-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.567;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7_ssiQSzBdo_ZPyAhcss-1" target="7_ssiQSzBdo_ZPyAhcss-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="130" />
-              <mxPoint x="571" y="130" />
-              <mxPoint x="571" y="160" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="7_ssiQSzBdo_ZPyAhcss-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_ssiQSzBdo_ZPyAhcss-1" target="7_ssiQSzBdo_ZPyAhcss-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7_ssiQSzBdo_ZPyAhcss-1" value="&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif; letter-spacing: 0.05pt;&quot;&gt;换电站管理系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="40" width="140" height="60" as="geometry" />
@@ -41,7 +34,7 @@
         <mxCell id="7_ssiQSzBdo_ZPyAhcss-14" value="&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;换点预约&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7_ssiQSzBdo_ZPyAhcss-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7_ssiQSzBdo_ZPyAhcss-16" value="&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;运维端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
