@@ -31,8 +31,11 @@
         <mxCell id="7_ssiQSzBdo_ZPyAhcss-2" value="&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;车主端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7_ssiQSzBdo_ZPyAhcss-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_ssiQSzBdo_ZPyAhcss-3" target="7_ssiQSzBdo_ZPyAhcss-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7_ssiQSzBdo_ZPyAhcss-3" value="&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;管理员端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7_ssiQSzBdo_ZPyAhcss-6" value="&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;用户管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="120" height="60" as="geometry" />
@@ -47,7 +50,7 @@
           <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7_ssiQSzBdo_ZPyAhcss-16" value="&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;运维端&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7_ssiQSzBdo_ZPyAhcss-22" value="&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;用户管理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
