@@ -76,8 +76,11 @@
         <mxCell id="7_ssiQSzBdo_ZPyAhcss-31" value="&lt;span style=&quot;font-size: 10.5pt; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;操作日志&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7_ssiQSzBdo_ZPyAhcss-32" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;工单处理&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7_ssiQSzBdo_ZPyAhcss-32" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;安全防护&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ktSjOJYq_ZgmOM8Um6I2-1" value="&lt;font face=&quot;Arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;安全防护&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
