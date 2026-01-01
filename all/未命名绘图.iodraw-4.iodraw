@@ -19,11 +19,17 @@
         <mxCell id="GtVfJqJMnfDRHzAjqMru-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtVfJqJMnfDRHzAjqMru-4" target="GtVfJqJMnfDRHzAjqMru-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GtVfJqJMnfDRHzAjqMru-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtVfJqJMnfDRHzAjqMru-4" target="GtVfJqJMnfDRHzAjqMru-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GtVfJqJMnfDRHzAjqMru-4" value="本地计算" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GtVfJqJMnfDRHzAjqMru-6" value="opencv框架提取图像特征，yolov8进行卷积" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GtVfJqJMnfDRHzAjqMru-8" value="本地存储" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
