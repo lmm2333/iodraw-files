@@ -7,11 +7,17 @@
         <mxCell id="GtVfJqJMnfDRHzAjqMru-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtVfJqJMnfDRHzAjqMru-1" target="GtVfJqJMnfDRHzAjqMru-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GtVfJqJMnfDRHzAjqMru-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GtVfJqJMnfDRHzAjqMru-1" target="GtVfJqJMnfDRHzAjqMru-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GtVfJqJMnfDRHzAjqMru-1" value="wiin外接采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GtVfJqJMnfDRHzAjqMru-2" value="外接摄像" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GtVfJqJMnfDRHzAjqMru-4" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
