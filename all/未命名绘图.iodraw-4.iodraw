@@ -22,8 +22,8 @@
         <mxCell id="GtVfJqJMnfDRHzAjqMru-4" value="本地计算" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GtVfJqJMnfDRHzAjqMru-6" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="GtVfJqJMnfDRHzAjqMru-6" value="opencv框架提取图像特征，yolov8进行卷积" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
