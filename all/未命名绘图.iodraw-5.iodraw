@@ -33,6 +33,9 @@
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--9" value="&lt;h1&gt;商家ID&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pde_0qFDmb5fsZ_jUNS--10" target="Pde_0qFDmb5fsZ_jUNS--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--10" value="&lt;h1&gt;供应&lt;/h1&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314" y="504" width="116" height="80" as="geometry" />
         </mxCell>
@@ -86,12 +89,6 @@
         </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--33" value="&lt;h1&gt;服务ID&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Pde_0qFDmb5fsZ_jUNS--36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="540" as="sourcePoint" />
-            <mxPoint x="660" y="490" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
