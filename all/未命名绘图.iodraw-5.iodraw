@@ -70,9 +70,6 @@
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--29" value="&lt;h1&gt;接受&lt;/h1&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="841" y="970" width="116" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Pde_0qFDmb5fsZ_jUNS--34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Pde_0qFDmb5fsZ_jUNS--30" target="Pde_0qFDmb5fsZ_jUNS--31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--30" value="&lt;h1&gt;服务&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="1169" width="120" height="60" as="geometry" />
         </mxCell>
@@ -82,7 +79,7 @@
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--32" value="&lt;h1&gt;服务&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pde_0qFDmb5fsZ_jUNS--33" value="&lt;h1&gt;服务&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--33" value="&lt;h1&gt;服务ID&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
