@@ -56,7 +56,7 @@
           <mxGeometry y="300" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AzEfh6KsiFSt5B2LKfhc-28" value="系统管理员" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="340" width="140" height="180" as="geometry" />
+          <mxGeometry x="110" y="340" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="AzEfh6KsiFSt5B2LKfhc-29" value="管理员id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AzEfh6KsiFSt5B2LKfhc-28">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="AzEfh6KsiFSt5B2LKfhc-33" value="监控数据（）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AzEfh6KsiFSt5B2LKfhc-28">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AzEfh6KsiFSt5B2LKfhc-34" value="审核评价（）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AzEfh6KsiFSt5B2LKfhc-28">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
