@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--1" value="&lt;h1&gt;商家&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--2" value="&lt;h1&gt;宠物&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="810" width="120" height="60" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--4" value="&lt;h1&gt;服务&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
