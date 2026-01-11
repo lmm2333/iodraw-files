@@ -88,10 +88,22 @@
         <mxCell id="iIOa4CBY-ASfGzdPreXc-38" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="690" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iIOa4CBY-ASfGzdPreXc-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="iIOa4CBY-ASfGzdPreXc-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iIOa4CBY-ASfGzdPreXc-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="670" as="sourcePoint" />
+            <mxPoint x="450" y="720" as="sourcePoint" />
             <mxPoint x="670" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIOa4CBY-ASfGzdPreXc-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="730" as="sourcePoint" />
+            <mxPoint x="580" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIOa4CBY-ASfGzdPreXc-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="740" as="sourcePoint" />
+            <mxPoint x="590" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
