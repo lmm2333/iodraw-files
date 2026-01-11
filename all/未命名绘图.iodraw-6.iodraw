@@ -92,7 +92,7 @@
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AzEfh6KsiFSt5B2LKfhc-47" value="用户" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="600" width="140" height="180" as="geometry" />
+          <mxGeometry x="110" y="600" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="AzEfh6KsiFSt5B2LKfhc-48" value="用户id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AzEfh6KsiFSt5B2LKfhc-47">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -106,8 +106,11 @@
         <mxCell id="AzEfh6KsiFSt5B2LKfhc-51" value="宠物档案" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AzEfh6KsiFSt5B2LKfhc-47">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AzEfh6KsiFSt5B2LKfhc-52" value="评分" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AzEfh6KsiFSt5B2LKfhc-47">
+        <mxCell id="AzEfh6KsiFSt5B2LKfhc-52" value="注册登入（）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AzEfh6KsiFSt5B2LKfhc-47">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AzEfh6KsiFSt5B2LKfhc-53" value="注册登入（）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AzEfh6KsiFSt5B2LKfhc-47">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
