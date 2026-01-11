@@ -67,6 +67,9 @@
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--28" value="&lt;h1&gt;健康状态&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1017" y="890" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--29" value="&lt;h1&gt;拥有&lt;/h1&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841" y="880" width="116" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
