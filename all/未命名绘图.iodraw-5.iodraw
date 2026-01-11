@@ -16,9 +16,6 @@
         <mxCell id="iIOa4CBY-ASfGzdPreXc-6" value="浏览器服务列" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iIOa4CBY-ASfGzdPreXc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIOa4CBY-ASfGzdPreXc-7" target="iIOa4CBY-ASfGzdPreXc-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="iIOa4CBY-ASfGzdPreXc-7" value="下单服务列" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="340" width="120" height="80" as="geometry" />
         </mxCell>
