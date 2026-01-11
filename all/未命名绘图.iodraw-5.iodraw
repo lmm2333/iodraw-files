@@ -23,7 +23,7 @@
           <mxGeometry x="750" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iIOa4CBY-ASfGzdPreXc-9" value="填写服务详情" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="980" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iIOa4CBY-ASfGzdPreXc-10" value="选择服务类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="300" width="120" height="80" as="geometry" />
@@ -66,6 +66,15 @@
             <mxPoint x="450" y="380" as="sourcePoint" />
             <mxPoint x="570" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iIOa4CBY-ASfGzdPreXc-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="410" as="sourcePoint" />
+            <mxPoint x="920" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIOa4CBY-ASfGzdPreXc-26" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="iIOa4CBY-ASfGzdPreXc-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
