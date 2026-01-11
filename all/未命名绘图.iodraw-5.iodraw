@@ -121,7 +121,7 @@
         <mxCell id="iIOa4CBY-ASfGzdPreXc-53" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1930" y="340" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iIOa4CBY-ASfGzdPreXc-57" value="填写服务详情" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iIOa4CBY-ASfGzdPreXc-57" value="重置密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iIOa4CBY-ASfGzdPreXc-58" value="账号管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
