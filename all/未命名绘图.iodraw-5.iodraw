@@ -27,6 +27,9 @@
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pde_0qFDmb5fsZ_jUNS--3" target="Pde_0qFDmb5fsZ_jUNS--16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pde_0qFDmb5fsZ_jUNS--3" target="Pde_0qFDmb5fsZ_jUNS--15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--3" value="&lt;h1&gt;主人&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="837" y="227" width="120" height="60" as="geometry" />
         </mxCell>
@@ -86,7 +89,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--16" value="&lt;h1&gt;拥有&lt;/h1&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="839" y="460" width="116" height="80" as="geometry" />
+          <mxGeometry x="840" y="460" width="116" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pde_0qFDmb5fsZ_jUNS--17" target="Pde_0qFDmb5fsZ_jUNS--29">
           <mxGeometry relative="1" as="geometry" />
