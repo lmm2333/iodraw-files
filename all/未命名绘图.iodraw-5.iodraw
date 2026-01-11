@@ -11,7 +11,7 @@
           <mxGeometry x="827" y="227" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--4" value="&lt;h1&gt;服务&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="578" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--5" value="&lt;h1&gt;订单&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="576" y="380" width="120" height="60" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="1017" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--29" value="&lt;h1&gt;拥有&lt;/h1&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="841" y="880" width="116" height="80" as="geometry" />
+          <mxGeometry x="841" y="970" width="116" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
