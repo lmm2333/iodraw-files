@@ -22,7 +22,7 @@
         <mxCell id="iIOa4CBY-ASfGzdPreXc-8" value="评价服务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iIOa4CBY-ASfGzdPreXc-9" value="浏览器服务列" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iIOa4CBY-ASfGzdPreXc-9" value="填写服务详情" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iIOa4CBY-ASfGzdPreXc-10" value="选择服务类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
