@@ -67,8 +67,20 @@
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--28" value="&lt;h1&gt;健康状态&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1017" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pde_0qFDmb5fsZ_jUNS--29" value="&lt;h1&gt;拥有&lt;/h1&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--29" value="&lt;h1&gt;接受&lt;/h1&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="841" y="970" width="116" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--30" value="&lt;h1&gt;服务&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--31" value="&lt;h1&gt;服务&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--32" value="&lt;h1&gt;服务&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--33" value="&lt;h1&gt;服务&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
