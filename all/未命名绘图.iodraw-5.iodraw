@@ -17,12 +17,12 @@
           <mxGeometry x="440" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--5" value="&lt;h1&gt;商家&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pde_0qFDmb5fsZ_jUNS--6" value="&lt;h1&gt;商家&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--6" value="&lt;h1&gt;名称&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pde_0qFDmb5fsZ_jUNS--7" value="&lt;h1&gt;商家&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--7" value="&lt;h1&gt;地址&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--8" value="&lt;h1&gt;联系方式&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
