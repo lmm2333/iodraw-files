@@ -140,11 +140,6 @@
         <mxCell id="AzEfh6KsiFSt5B2LKfhc-58" value="服务id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AzEfh6KsiFSt5B2LKfhc-57">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AzEfh6KsiFSt5B2LKfhc-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="AzEfh6KsiFSt5B2LKfhc-57" source="AzEfh6KsiFSt5B2LKfhc-60">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-120" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AzEfh6KsiFSt5B2LKfhc-60" value="价格" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AzEfh6KsiFSt5B2LKfhc-57">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
@@ -196,6 +191,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AzEfh6KsiFSt5B2LKfhc-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzEfh6KsiFSt5B2LKfhc-31" target="AzEfh6KsiFSt5B2LKfhc-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AzEfh6KsiFSt5B2LKfhc-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AzEfh6KsiFSt5B2LKfhc-58" target="AzEfh6KsiFSt5B2LKfhc-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
