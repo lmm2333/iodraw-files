@@ -12,6 +12,12 @@
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pde_0qFDmb5fsZ_jUNS--1" target="Pde_0qFDmb5fsZ_jUNS--9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pde_0qFDmb5fsZ_jUNS--1" target="Pde_0qFDmb5fsZ_jUNS--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pde_0qFDmb5fsZ_jUNS--1" target="Pde_0qFDmb5fsZ_jUNS--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--1" value="&lt;h1&gt;商家&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="230" width="120" height="60" as="geometry" />
         </mxCell>
