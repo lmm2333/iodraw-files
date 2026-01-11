@@ -118,14 +118,8 @@
             <mxPoint x="810" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iIOa4CBY-ASfGzdPreXc-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iIOa4CBY-ASfGzdPreXc-53" target="iIOa4CBY-ASfGzdPreXc-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iIOa4CBY-ASfGzdPreXc-53" value="商家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="iIOa4CBY-ASfGzdPreXc-53" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1920" y="250" width="50" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iIOa4CBY-ASfGzdPreXc-54" value="商家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1920" y="410" width="50" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
