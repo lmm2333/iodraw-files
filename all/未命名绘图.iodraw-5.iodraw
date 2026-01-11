@@ -178,13 +178,13 @@
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--64" value="&lt;h1&gt;订单ID&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pde_0qFDmb5fsZ_jUNS--65" value="总价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--65" value="&lt;h1&gt;总价&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--66" value="&lt;h1&gt;下单时间&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pde_0qFDmb5fsZ_jUNS--67" value="支付状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--67" value="&lt;h1&gt;支付状态&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="347" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pde_0qFDmb5fsZ_jUNS--67" target="Pde_0qFDmb5fsZ_jUNS--67">
