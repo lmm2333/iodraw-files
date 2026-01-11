@@ -31,8 +31,8 @@
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--9" value="&lt;h1&gt;商家ID&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Pde_0qFDmb5fsZ_jUNS--10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="480" width="80" height="80" as="geometry" />
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--10" value="供应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="480" width="116" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
