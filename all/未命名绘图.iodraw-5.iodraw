@@ -49,7 +49,7 @@
         <mxCell id="Pde_0qFDmb5fsZ_jUNS--16" value="&lt;h1&gt;拥有&lt;/h1&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="784" y="544" width="116" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Pde_0qFDmb5fsZ_jUNS--17" value="&lt;h1&gt;主人&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Pde_0qFDmb5fsZ_jUNS--17" value="&lt;h1&gt;宠物&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
