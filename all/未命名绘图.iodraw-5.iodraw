@@ -85,6 +85,12 @@
             <mxPoint x="880" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iIOa4CBY-ASfGzdPreXc-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iIOa4CBY-ASfGzdPreXc-38" target="iIOa4CBY-ASfGzdPreXc-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIOa4CBY-ASfGzdPreXc-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iIOa4CBY-ASfGzdPreXc-38" target="iIOa4CBY-ASfGzdPreXc-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iIOa4CBY-ASfGzdPreXc-38" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="690" width="50" height="80" as="geometry" />
         </mxCell>
@@ -117,6 +123,9 @@
             <mxPoint x="760" y="790" as="sourcePoint" />
             <mxPoint x="810" y="740" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iIOa4CBY-ASfGzdPreXc-50" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="850" width="50" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
