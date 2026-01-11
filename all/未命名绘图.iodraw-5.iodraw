@@ -118,6 +118,9 @@
             <mxPoint x="810" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iIOa4CBY-ASfGzdPreXc-53" value="商家" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="700" width="50" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
