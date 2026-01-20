@@ -52,7 +52,7 @@
         <mxCell id="D2WaXDX6av52KGpBxrCK-13" value="填写服务详情" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D2WaXDX6av52KGpBxrCK-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D2WaXDX6av52KGpBxrCK-15" value="下单服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
