@@ -40,6 +40,9 @@
         <mxCell id="iIOa4CBY-ASfGzdPreXc-14" value="&lt;h2&gt;订单处理&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="690" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="sWtIqRz6LZz4mGDLpkZU-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iIOa4CBY-ASfGzdPreXc-16" target="sWtIqRz6LZz4mGDLpkZU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iIOa4CBY-ASfGzdPreXc-16" value="&lt;h2&gt;查看订单状态&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="760" width="120" height="80" as="geometry" />
         </mxCell>
@@ -177,6 +180,9 @@
         </mxCell>
         <mxCell id="iIOa4CBY-ASfGzdPreXc-73" value="&lt;h4&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1222" y="540" width="100" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="sWtIqRz6LZz4mGDLpkZU-1" value="&lt;h2&gt;修改&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="760" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
