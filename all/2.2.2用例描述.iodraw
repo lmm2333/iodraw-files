@@ -181,8 +181,8 @@
         <mxCell id="sWtIqRz6LZz4mGDLpkZU-1" value="&lt;h2&gt;修改&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="830" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sWtIqRz6LZz4mGDLpkZU-3" value="&lt;h2&gt;修改&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="840" width="120" height="80" as="geometry" />
+        <mxCell id="sWtIqRz6LZz4mGDLpkZU-3" value="&lt;h2&gt;删除&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="880" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
