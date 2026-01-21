@@ -16,6 +16,9 @@
         <mxCell id="u1u__sz0sMA2NyMl9AiN-2" value="&lt;h3&gt;梳理业务/性能需求&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="u1u__sz0sMA2NyMl9AiN-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u1u__sz0sMA2NyMl9AiN-6" target="u1u__sz0sMA2NyMl9AiN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u1u__sz0sMA2NyMl9AiN-6" value="&lt;h3&gt;设计三层网络拓扑&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="40" width="120" height="60" as="geometry" />
         </mxCell>
@@ -42,9 +45,6 @@
         </mxCell>
         <mxCell id="u1u__sz0sMA2NyMl9AiN-12" value="&lt;h3&gt;梳理业务/性能需求&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="u1u__sz0sMA2NyMl9AiN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u1u__sz0sMA2NyMl9AiN-13" target="u1u__sz0sMA2NyMl9AiN-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u1u__sz0sMA2NyMl9AiN-13" value="&lt;h3&gt;路由/VLAN等核心技术&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="150" width="120" height="60" as="geometry" />
