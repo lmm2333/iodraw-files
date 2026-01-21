@@ -43,7 +43,10 @@
           <mxGeometry x="330" y="554.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u1u__sz0sMA2NyMl9AiN-11" value="&lt;h3&gt;梳理业务/性能需求&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u1u__sz0sMA2NyMl9AiN-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u1u__sz0sMA2NyMl9AiN-12" target="u1u__sz0sMA2NyMl9AiN-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u1u__sz0sMA2NyMl9AiN-12" value="&lt;h3&gt;综合布线设计&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="150" width="120" height="60" as="geometry" />
