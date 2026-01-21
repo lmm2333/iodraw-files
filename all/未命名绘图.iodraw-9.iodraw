@@ -67,9 +67,6 @@
         <mxCell id="efYASoeg0DmDT0mo3fQL-49" value="&lt;h2&gt;pc&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="310" y="420" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="efYASoeg0DmDT0mo3fQL-54" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="140" y="650" width="80" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
