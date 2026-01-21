@@ -10,8 +10,8 @@
         <mxCell id="u1u__sz0sMA2NyMl9AiN-1" value="校园实地调研" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u1u__sz0sMA2NyMl9AiN-2" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="u1u__sz0sMA2NyMl9AiN-2" value="梳理业务/性能需求" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
