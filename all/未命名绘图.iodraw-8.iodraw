@@ -31,13 +31,16 @@
           <mxGeometry x="490" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u1u__sz0sMA2NyMl9AiN-9" value="&lt;h3&gt;调整设备、配置&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="485.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u1u__sz0sMA2NyMl9AiN-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u1u__sz0sMA2NyMl9AiN-10" target="u1u__sz0sMA2NyMl9AiN-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u1u__sz0sMA2NyMl9AiN-10" value="&lt;h3&gt;联通性/带宽测试&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="554.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u1u__sz0sMA2NyMl9AiN-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u1u__sz0sMA2NyMl9AiN-11" target="u1u__sz0sMA2NyMl9AiN-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u1u__sz0sMA2NyMl9AiN-11" value="&lt;h3&gt;现场部署配置&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="270" width="120" height="60" as="geometry" />
@@ -63,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u1u__sz0sMA2NyMl9AiN-18" value="达标" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="650" width="80" height="80" as="geometry" />
+          <mxGeometry x="350" y="475.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
