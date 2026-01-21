@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iIOa4CBY-ASfGzdPreXc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="160" width="1050" height="740" as="geometry" />
+          <mxGeometry x="480" y="160" width="1050" height="810" as="geometry" />
         </mxCell>
         <mxCell id="iIOa4CBY-ASfGzdPreXc-3" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;宠物服务系统&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="900" y="190" width="210" height="30" as="geometry" />
@@ -39,9 +39,6 @@
         </mxCell>
         <mxCell id="iIOa4CBY-ASfGzdPreXc-14" value="&lt;h2&gt;订单处理&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="690" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="sWtIqRz6LZz4mGDLpkZU-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iIOa4CBY-ASfGzdPreXc-16" target="sWtIqRz6LZz4mGDLpkZU-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iIOa4CBY-ASfGzdPreXc-16" value="&lt;h2&gt;查看订单状态&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="760" width="120" height="80" as="geometry" />
@@ -182,7 +179,10 @@
           <mxGeometry x="1222" y="540" width="100" height="39" as="geometry" />
         </mxCell>
         <mxCell id="sWtIqRz6LZz4mGDLpkZU-1" value="&lt;h2&gt;修改&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="760" width="120" height="80" as="geometry" />
+          <mxGeometry x="1150" y="830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sWtIqRz6LZz4mGDLpkZU-3" value="&lt;h2&gt;修改&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="840" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
