@@ -8,7 +8,7 @@
           <mxGeometry x="360" y="90" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="efYASoeg0DmDT0mo3fQL-25" value="&lt;h2&gt;S&lt;/h2&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="340" y="300" width="60" height="60" as="geometry" />
+          <mxGeometry x="320" y="300" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="efYASoeg0DmDT0mo3fQL-26" value="&lt;h2&gt;S&lt;/h2&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="180" y="300" width="60" height="60" as="geometry" />
@@ -20,10 +20,10 @@
           <mxGeometry x="260" y="200" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="efYASoeg0DmDT0mo3fQL-30" value="&lt;h2&gt;S&lt;/h2&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="570" y="290" width="60" height="60" as="geometry" />
+          <mxGeometry x="540" y="310" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="efYASoeg0DmDT0mo3fQL-33" value="&lt;h2&gt;S&lt;/h2&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="310" width="60" height="60" as="geometry" />
+          <mxGeometry x="414" y="310" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
