@@ -26,7 +26,7 @@
           <mxGeometry x="370" y="173" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="efYASoeg0DmDT0mo3fQL-11" value="&lt;h3&gt;Ethemet&amp;nbsp; 0/0/1&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="145" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="efYASoeg0DmDT0mo3fQL-12" value="&lt;h3&gt;GE0/0/1&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="250" width="70" height="60" as="geometry" />
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="efYASoeg0DmDT0mo3fQL-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=24.0078759080116;entryPerimeter=0;" edge="1" parent="1" source="efYASoeg0DmDT0mo3fQL-5" target="efYASoeg0DmDT0mo3fQL-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="efYASoeg0DmDT0mo3fQL-16" value="&lt;h3&gt;Ethemet&amp;nbsp; 0/0/1&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
