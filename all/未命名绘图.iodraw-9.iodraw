@@ -52,7 +52,7 @@
         <mxCell id="efYASoeg0DmDT0mo3fQL-19" value="&lt;h3&gt;Ethemet&amp;nbsp; 0/0/4&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="efYASoeg0DmDT0mo3fQL-20" value="&lt;h3&gt;Ethemet&amp;nbsp; 0/0/1&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="efYASoeg0DmDT0mo3fQL-20" value="&lt;h3&gt;Ethemet&amp;nbsp; 0/0/3&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
