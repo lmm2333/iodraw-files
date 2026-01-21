@@ -24,6 +24,9 @@
         <mxCell id="u1u__sz0sMA2NyMl9AiN-6" value="&lt;h3&gt;设计三层网络拓扑&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="u1u__sz0sMA2NyMl9AiN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u1u__sz0sMA2NyMl9AiN-7" target="u1u__sz0sMA2NyMl9AiN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u1u__sz0sMA2NyMl9AiN-7" value="&lt;h3&gt;设备选型与IP规划&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="450" width="120" height="60" as="geometry" />
         </mxCell>
@@ -34,7 +37,7 @@
           <mxGeometry x="110" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u1u__sz0sMA2NyMl9AiN-10" value="&lt;h3&gt;梳理业务/性能需求&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="554.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u1u__sz0sMA2NyMl9AiN-11" value="&lt;h3&gt;梳理业务/性能需求&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="260" width="120" height="60" as="geometry" />
