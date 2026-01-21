@@ -71,7 +71,7 @@
           <mxGeometry x="350" y="790" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="efYASoeg0DmDT0mo3fQL-59" value="&lt;h2&gt;广播域&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-20" width="290" height="250" as="geometry" />
+          <mxGeometry x="84" y="80" width="290" height="250" as="geometry" />
         </mxCell>
         <mxCell id="efYASoeg0DmDT0mo3fQL-60" value="&lt;h2&gt;S&lt;/h2&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="340" y="-10" width="60" height="60" as="geometry" />
@@ -132,6 +132,9 @@
         </mxCell>
         <mxCell id="efYASoeg0DmDT0mo3fQL-79" value="&lt;h2&gt;pc&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="374" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="efYASoeg0DmDT0mo3fQL-81" value="&lt;h2&gt;广播域&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="290" height="250" as="geometry" />
         </mxCell>
         <mxCell id="efYASoeg0DmDT0mo3fQL-80" value="&lt;h2&gt;pc&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="80" height="80" as="geometry" />
