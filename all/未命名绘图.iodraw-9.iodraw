@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="CYBXgfo5dG4bDBycXbvz">
-    <mxGraphModel dx="933" dy="2273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="933" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
         <mxCell id="efYASoeg0DmDT0mo3fQL-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="efYASoeg0DmDT0mo3fQL-24" target="efYASoeg0DmDT0mo3fQL-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="efYASoeg0DmDT0mo3fQL-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="efYASoeg0DmDT0mo3fQL-55" target="efYASoeg0DmDT0mo3fQL-33">
+        <mxCell id="efYASoeg0DmDT0mo3fQL-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="efYASoeg0DmDT0mo3fQL-27" target="efYASoeg0DmDT0mo3fQL-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="efYASoeg0DmDT0mo3fQL-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="efYASoeg0DmDT0mo3fQL-27" target="efYASoeg0DmDT0mo3fQL-30">
@@ -66,9 +66,6 @@
         </mxCell>
         <mxCell id="efYASoeg0DmDT0mo3fQL-49" value="&lt;h2&gt;pc&lt;/h2&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="310" y="420" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="efYASoeg0DmDT0mo3fQL-55" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="64" y="-110" width="700" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
