@@ -56,7 +56,10 @@
           <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="efYASoeg0DmDT0mo3fQL-21" value="&lt;h3&gt;PC3&lt;br&gt;VLAN 10&lt;br&gt;192.168.10.10&lt;br&gt;192.168.10.1.24&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="600" width="120" height="110" as="geometry" />
+          <mxGeometry x="70" y="610" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="efYASoeg0DmDT0mo3fQL-22" value="&lt;h3&gt;PC3&lt;br&gt;VLAN 10&lt;br&gt;192.168.10.10&lt;br&gt;192.168.10.1.24&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="685" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
