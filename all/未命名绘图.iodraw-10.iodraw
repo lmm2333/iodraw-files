@@ -44,7 +44,7 @@
           <mxGeometry x="410" y="200" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hphvREvGm_5KQkE_wOjB-19" value="目标192.168.1.100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="210" width="120" height="30" as="geometry" />
+          <mxGeometry x="200" y="200" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
