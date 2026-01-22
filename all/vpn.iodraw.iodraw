@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hphvREvGm_5KQkE_wOjB-42" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;1234:5678:90AB:CDEF:ABCD:EF01:2345:6789/64&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="390" width="560" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="hphvREvGm_5KQkE_wOjB-34" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;192.168.1.1/24&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="130" width="60" height="30" as="geometry" />
         </mxCell>
@@ -43,13 +46,10 @@
         <mxCell id="hphvREvGm_5KQkE_wOjB-44" value="前缀" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="470" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hphvREvGm_5KQkE_wOjB-42" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;1234:5678:90AB:CDEF:ABCD:EF01:2345:6789/64&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="390" width="560" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="hphvREvGm_5KQkE_wOjB-47" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="500" as="sourcePoint" />
-            <mxPoint x="410" y="490" as="targetPoint" />
+            <mxPoint x="500" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
