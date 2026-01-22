@@ -46,9 +46,6 @@
         <mxCell id="hphvREvGm_5KQkE_wOjB-19" value="目标pop()上的public IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="364" y="290" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hphvREvGm_5KQkE_wOjB-20" value="来源pop()上的public IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="364" y="360" width="150" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="hphvREvGm_5KQkE_wOjB-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame;dx=10;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="409" y="490" width="100" height="60" as="geometry" />
         </mxCell>
