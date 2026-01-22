@@ -43,8 +43,8 @@
         <mxCell id="hphvREvGm_5KQkE_wOjB-18" value="目标192.168.1.100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="200" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hphvREvGm_5KQkE_wOjB-19" value="目标192.168.1.100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="120" height="30" as="geometry" />
+        <mxCell id="hphvREvGm_5KQkE_wOjB-19" value="目标pop()上的public IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="200" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
