@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hphvREvGm_5KQkE_wOjB-1" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="210" width="120" height="80" as="geometry" />
+          <mxGeometry x="80" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hphvREvGm_5KQkE_wOjB-2" value="NAT主机" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="330" y="210" width="60" height="80" as="geometry" />
@@ -14,6 +14,9 @@
           <mxGeometry x="480" y="220" width="88" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hphvREvGm_5KQkE_wOjB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hphvREvGm_5KQkE_wOjB-1" target="hphvREvGm_5KQkE_wOjB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hphvREvGm_5KQkE_wOjB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=-15;exitPerimeter=0;entryX=0.9;entryY=0.81;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hphvREvGm_5KQkE_wOjB-2" target="hphvREvGm_5KQkE_wOjB-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
