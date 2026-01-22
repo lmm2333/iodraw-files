@@ -10,6 +10,9 @@
         <mxCell id="hphvREvGm_5KQkE_wOjB-2" value="NAT主机" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="310" y="210" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="hphvREvGm_5KQkE_wOjB-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="88" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
