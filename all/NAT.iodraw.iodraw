@@ -53,7 +53,7 @@
           <mxGeometry x="409" y="490" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hphvREvGm_5KQkE_wOjB-22" value="设备1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="434" y="505" width="50" height="30" as="geometry" />
+          <mxGeometry x="434" y="515" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
