@@ -55,6 +55,12 @@
         <mxCell id="hphvREvGm_5KQkE_wOjB-48" value="接口标识符" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="470" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hphvREvGm_5KQkE_wOjB-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="466" as="sourcePoint" />
+            <mxPoint x="630" y="466" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
