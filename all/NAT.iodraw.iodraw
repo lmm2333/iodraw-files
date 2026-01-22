@@ -32,10 +32,13 @@
           <mxGeometry x="164" y="300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hphvREvGm_5KQkE_wOjB-25" value="PC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="720" y="290" width="80" height="80" as="geometry" />
+          <mxGeometry x="730" y="300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hphvREvGm_5KQkE_wOjB-26" value="设备2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="530" y="450" width="88" height="60" as="geometry" />
+          <mxGeometry x="563" y="310" width="88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hphvREvGm_5KQkE_wOjB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hphvREvGm_5KQkE_wOjB-25" target="hphvREvGm_5KQkE_wOjB-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
