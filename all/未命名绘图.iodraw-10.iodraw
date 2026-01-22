@@ -4,11 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hphvREvGm_5KQkE_wOjB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hphvREvGm_5KQkE_wOjB-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hphvREvGm_5KQkE_wOjB-1" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="210" width="120" height="80" as="geometry" />
         </mxCell>
@@ -17,9 +12,6 @@
         </mxCell>
         <mxCell id="hphvREvGm_5KQkE_wOjB-3" value="Client" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="480" y="220" width="88" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hphvREvGm_5KQkE_wOjB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hphvREvGm_5KQkE_wOjB-2" target="hphvREvGm_5KQkE_wOjB-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
