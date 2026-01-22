@@ -22,15 +22,6 @@
             <mxPoint x="717" y="328.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hphvREvGm_5KQkE_wOjB-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.917;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="719" y="350.5" as="sourcePoint" />
-            <mxPoint x="579" y="350.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hphvREvGm_5KQkE_wOjB-17" value="来源192.168.1.100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="589" y="360" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="hphvREvGm_5KQkE_wOjB-18" value="目标192.168.1.100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="589" y="290" width="120" height="30" as="geometry" />
         </mxCell>
@@ -42,6 +33,9 @@
         </mxCell>
         <mxCell id="hphvREvGm_5KQkE_wOjB-25" value="PC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="550" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hphvREvGm_5KQkE_wOjB-26" value="设备1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="88" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
