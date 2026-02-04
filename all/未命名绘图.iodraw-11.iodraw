@@ -8,82 +8,82 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="210" y="80" width="50" height="50" as="geometry" />
+          <mxGeometry x="375" y="90" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-2" target="hPlAL9lF_q1RKJ7vyI97-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-2" value="注册登入" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="170" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-3" target="hPlAL9lF_q1RKJ7vyI97-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-3" value="浏览器服务列表" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-4" target="hPlAL9lF_q1RKJ7vyI97-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-4" value="选择服务，时间，宠物信息" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="390" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-5" value="提交订单" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175" y="505" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="515" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-11" target="hPlAL9lF_q1RKJ7vyI97-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="220" y="90" width="50" height="50" as="geometry" />
+          <mxGeometry x="385" y="100" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-13" target="hPlAL9lF_q1RKJ7vyI97-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-13" value="注册登入" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="350" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-15" target="hPlAL9lF_q1RKJ7vyI97-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-15" value="浏览器服务列表" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="350" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-17" target="hPlAL9lF_q1RKJ7vyI97-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-17" value="选择服务，时间，宠物信息" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="350" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-18" value="提交订单" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="515" width="120" height="80" as="geometry" />
+          <mxGeometry x="350" y="525" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-20" target="hPlAL9lF_q1RKJ7vyI97-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="230" y="100" width="50" height="50" as="geometry" />
+          <mxGeometry x="605" y="80" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-22" target="hPlAL9lF_q1RKJ7vyI97-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-22" value="注册登入" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="570" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-24" target="hPlAL9lF_q1RKJ7vyI97-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-24" value="浏览器服务列表" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="570" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-26" target="hPlAL9lF_q1RKJ7vyI97-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-26" value="选择服务，时间，宠物信息" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="410" width="120" height="80" as="geometry" />
+          <mxGeometry x="570" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-27" value="提交订单" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="525" width="120" height="80" as="geometry" />
+          <mxGeometry x="570" y="505" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
