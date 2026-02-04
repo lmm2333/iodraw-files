@@ -82,8 +82,8 @@
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-28" value="审核商家资质" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hPlAL9lF_q1RKJ7vyI97-29" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="430" width="130" height="100" as="geometry" />
+        <mxCell id="hPlAL9lF_q1RKJ7vyI97-29" value="是否审核成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="405" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
