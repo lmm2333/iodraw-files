@@ -109,6 +109,9 @@
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-38" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="595" y="660" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="hPlAL9lF_q1RKJ7vyI97-40" value="进行营业和日常管理" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
