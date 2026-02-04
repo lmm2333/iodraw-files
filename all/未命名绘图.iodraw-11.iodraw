@@ -141,7 +141,7 @@
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-48" value="确认服务完成" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="770" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hPlAL9lF_q1RKJ7vyI97-52" value="确认服务完成" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hPlAL9lF_q1RKJ7vyI97-52" value="添加评分和评价" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="890" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
