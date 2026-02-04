@@ -46,6 +46,9 @@
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-17" value="选择服务，时间，宠物信息" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="400" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="hPlAL9lF_q1RKJ7vyI97-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-18" target="hPlAL9lF_q1RKJ7vyI97-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-18" value="提交订单" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="515" width="120" height="80" as="geometry" />
         </mxCell>
@@ -111,6 +114,9 @@
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-40" value="进行营业和日常管理" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="515" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlAL9lF_q1RKJ7vyI97-42" value="是否审核成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="410" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
