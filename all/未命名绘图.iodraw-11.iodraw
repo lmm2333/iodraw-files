@@ -154,16 +154,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-57" value="到店等待上门服务" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="670" width="120" height="80" as="geometry" />
+          <mxGeometry x="335" y="775" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-59" target="hPlAL9lF_q1RKJ7vyI97-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-59" value="确认服务完成" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="780" width="120" height="80" as="geometry" />
+          <mxGeometry x="335" y="885" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-60" value="添加评分和评价" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="900" width="120" height="80" as="geometry" />
+          <mxGeometry x="335" y="1005" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
