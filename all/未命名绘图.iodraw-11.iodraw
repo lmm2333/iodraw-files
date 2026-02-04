@@ -67,14 +67,13 @@
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-24" value="优化aii客服知识库" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hPlAL9lF_q1RKJ7vyI97-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-26" target="hPlAL9lF_q1RKJ7vyI97-27">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hPlAL9lF_q1RKJ7vyI97-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="505" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="hPlAL9lF_q1RKJ7vyI97-26" value="选择服务，时间，宠物信息" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hPlAL9lF_q1RKJ7vyI97-26" value="支持用户自动查询" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="390" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="hPlAL9lF_q1RKJ7vyI97-27" value="提交订单" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="505" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-28" target="hPlAL9lF_q1RKJ7vyI97-29">
           <mxGeometry relative="1" as="geometry" />
