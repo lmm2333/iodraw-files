@@ -118,8 +118,8 @@
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-40" value="进行营业和日常管理" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="515" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hPlAL9lF_q1RKJ7vyI97-42" value="是否审核成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="650" width="130" height="100" as="geometry" />
+        <mxCell id="hPlAL9lF_q1RKJ7vyI97-42" value="是否接受订单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="650" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
