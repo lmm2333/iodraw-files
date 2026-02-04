@@ -132,7 +132,7 @@
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-46" value="到店等待上门服务" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="660" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hPlAL9lF_q1RKJ7vyI97-48" value="选择服务，时间，宠物信息" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hPlAL9lF_q1RKJ7vyI97-48" value="确认服务完成" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="770" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
