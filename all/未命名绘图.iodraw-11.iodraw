@@ -123,6 +123,9 @@
             <mxPoint x="250" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hPlAL9lF_q1RKJ7vyI97-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-42" target="hPlAL9lF_q1RKJ7vyI97-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-42" value="是否接受订单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="650" width="130" height="100" as="geometry" />
         </mxCell>
@@ -154,7 +157,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-57" value="到店等待上门服务" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="775" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="800" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-59" target="hPlAL9lF_q1RKJ7vyI97-60">
           <mxGeometry relative="1" as="geometry" />
