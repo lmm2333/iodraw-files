@@ -90,11 +90,19 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hPlAL9lF_q1RKJ7vyI97-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-29" target="hPlAL9lF_q1RKJ7vyI97-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hPlAL9lF_q1RKJ7vyI97-37" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hPlAL9lF_q1RKJ7vyI97-36">
+          <mxGeometry x="-0.24" y="4" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-29" value="是否审核成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="555" y="400" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-35" value="审核商家资质" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="560" y="550" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
