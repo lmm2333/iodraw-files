@@ -22,14 +22,13 @@
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-3" value="上传资质证明" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hPlAL9lF_q1RKJ7vyI97-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-4" target="hPlAL9lF_q1RKJ7vyI97-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="hPlAL9lF_q1RKJ7vyI97-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="515" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="hPlAL9lF_q1RKJ7vyI97-4" value="选择服务，时间，宠物信息" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hPlAL9lF_q1RKJ7vyI97-4" value="进行营业和日常管理" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="400" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="hPlAL9lF_q1RKJ7vyI97-5" value="提交订单" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="515" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hPlAL9lF_q1RKJ7vyI97-11" target="hPlAL9lF_q1RKJ7vyI97-13">
           <mxGeometry relative="1" as="geometry" />
