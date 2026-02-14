@@ -201,7 +201,7 @@
           <mxGeometry x="20" y="30" width="960" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-83" value="用户" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-230" width="100" height="40" as="geometry" />
+          <mxGeometry x="115" y="-10" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hPlAL9lF_q1RKJ7vyI97-84" value="商家" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="391" y="-10" width="100" height="40" as="geometry" />
