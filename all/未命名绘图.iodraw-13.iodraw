@@ -46,14 +46,6 @@
         <mxCell id="gluYtdgZi1YnS7g59Cfx-18" value="&lt;h3&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;系统校验数据合法性&lt;/font&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gluYtdgZi1YnS7g59Cfx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="gluYtdgZi1YnS7g59Cfx-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="1060" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gluYtdgZi1YnS7g59Cfx-26" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1100" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="gluYtdgZi1YnS7g59Cfx-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gluYtdgZi1YnS7g59Cfx-48" target="gluYtdgZi1YnS7g59Cfx-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
