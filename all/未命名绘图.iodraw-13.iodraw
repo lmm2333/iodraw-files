@@ -53,6 +53,11 @@
             <mxPoint x="430" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fSoWoCvehrQjQp5coMgi-17" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fSoWoCvehrQjQp5coMgi-14">
+          <mxGeometry x="-0.3796" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fSoWoCvehrQjQp5coMgi-9" value="是否达标" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="560" width="80" height="80" as="geometry" />
         </mxCell>
