@@ -14,10 +14,10 @@
           <mxGeometry x="351" y="380" width="126" height="50" as="geometry" />
         </mxCell>
         <mxCell id="npBbOPiCsTaz3NNRs9eY-5" value="饮食记录上传" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="220" width="126" height="50" as="geometry" />
+          <mxGeometry x="460" y="210" width="126" height="50" as="geometry" />
         </mxCell>
         <mxCell id="npBbOPiCsTaz3NNRs9eY-6" value="食谱推荐信息获取" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="310" width="126" height="50" as="geometry" />
+          <mxGeometry x="460" y="290" width="126" height="50" as="geometry" />
         </mxCell>
         <mxCell id="npBbOPiCsTaz3NNRs9eY-7" value="用户信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="351" y="130" width="126" height="50" as="geometry" />
@@ -44,6 +44,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="399" y="275" as="sourcePoint" />
             <mxPoint x="470" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="npBbOPiCsTaz3NNRs9eY-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="npBbOPiCsTaz3NNRs9eY-11">
+          <mxGeometry x="0.0103" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
