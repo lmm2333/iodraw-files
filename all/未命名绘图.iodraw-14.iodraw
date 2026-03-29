@@ -60,6 +60,12 @@
         <mxCell id="npBbOPiCsTaz3NNRs9eY-15" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="380.00336431060396" y="340.0012514702131" as="geometry" />
         </mxCell>
+        <mxCell id="npBbOPiCsTaz3NNRs9eY-16" value="用户信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="140" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="npBbOPiCsTaz3NNRs9eY-17" value="用户信息管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371" y="150" width="126" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
