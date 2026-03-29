@@ -16,6 +16,11 @@
         <mxCell id="npBbOPiCsTaz3NNRs9eY-5" value="饮食记录上传" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="210" width="126" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="npBbOPiCsTaz3NNRs9eY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="npBbOPiCsTaz3NNRs9eY-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="586" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="npBbOPiCsTaz3NNRs9eY-6" value="食谱推荐信息获取" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="290" width="126" height="50" as="geometry" />
         </mxCell>
