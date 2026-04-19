@@ -50,11 +50,17 @@
         <mxCell id="q4b9_nl8XOp4Rd66J0Ac-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q4b9_nl8XOp4Rd66J0Ac-15" target="q4b9_nl8XOp4Rd66J0Ac-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="q4b9_nl8XOp4Rd66J0Ac-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q4b9_nl8XOp4Rd66J0Ac-15" target="q4b9_nl8XOp4Rd66J0Ac-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q4b9_nl8XOp4Rd66J0Ac-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;操作申请&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4b9_nl8XOp4Rd66J0Ac-17" value="后端校验+数据合法性" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q4b9_nl8XOp4Rd66J0Ac-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;操作申请&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
