@@ -16,7 +16,10 @@
         <mxCell id="q4b9_nl8XOp4Rd66J0Ac-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户访问&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q4b9_nl8XOp4Rd66J0Ac-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;身份认证&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q4b9_nl8XOp4Rd66J0Ac-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q4b9_nl8XOp4Rd66J0Ac-4" target="q4b9_nl8XOp4Rd66J0Ac-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q4b9_nl8XOp4Rd66J0Ac-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;角色选中&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q4b9_nl8XOp4Rd66J0Ac-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q4b9_nl8XOp4Rd66J0Ac-6" target="q4b9_nl8XOp4Rd66J0Ac-8">
@@ -43,6 +46,9 @@
         </mxCell>
         <mxCell id="q4b9_nl8XOp4Rd66J0Ac-8" value="认证通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="q4b9_nl8XOp4Rd66J0Ac-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;角色选中&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
