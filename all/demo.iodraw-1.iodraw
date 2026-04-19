@@ -104,8 +104,14 @@
         <mxCell id="q4b9_nl8XOp4Rd66J0Ac-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;前端结果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q4b9_nl8XOp4Rd66J0Ac-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;前端结果&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q4b9_nl8XOp4Rd66J0Ac-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q4b9_nl8XOp4Rd66J0Ac-33" target="q4b9_nl8XOp4Rd66J0Ac-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q4b9_nl8XOp4Rd66J0Ac-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;日志记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q4b9_nl8XOp4Rd66J0Ac-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;日志记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
