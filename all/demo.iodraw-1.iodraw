@@ -47,8 +47,8 @@
         <mxCell id="q4b9_nl8XOp4Rd66J0Ac-8" value="认证通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="360" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q4b9_nl8XOp4Rd66J0Ac-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;角色选中&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="q4b9_nl8XOp4Rd66J0Ac-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;操作申请&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
