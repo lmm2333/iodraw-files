@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3P8p-WbnF1iwSiSekX61-95" value="&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;字段名&lt;/th&gt;&lt;th&gt;数据类型&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;song_id&lt;/td&gt;&lt;td&gt;VARCHAR&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;track_name&lt;/td&gt;&lt;td&gt;VARCHAR&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;artists&lt;/td&gt;&lt;td&gt;VARCHAR&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;album_name&lt;/td&gt;&lt;td&gt;VARCHAR&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;track_genre&lt;/td&gt;&lt;td&gt;VARCHAR&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;popularity&lt;/td&gt;&lt;td&gt;INT&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;duration_ms&lt;/td&gt;&lt;td&gt;INT&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;explicit&lt;/td&gt;&lt;td&gt;INT&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;release_date&lt;/td&gt;&lt;td&gt;DATE&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="170" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
