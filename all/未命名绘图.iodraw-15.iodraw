@@ -82,20 +82,8 @@
         <mxCell id="FSVm9eB2s7LNulcu65-q-88" value="榜单实体" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="150" y="540" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-89" value="艺术家 / 歌手" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="320" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-90" value="Spotify 热度评分" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="370" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-91" value="国家 / 地区代码（如 US、CN）" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="370" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-92" value="所属专辑" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="550" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-93" value="音乐流派" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="460" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-94" value="关联" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="450" width="100" height="60" as="geometry" />
@@ -104,31 +92,7 @@
           <mxGeometry x="190" y="320" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-96" value="榜单记录唯一 ID" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="550" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-97" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-92" target="FSVm9eB2s7LNulcu65-q-88">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="690" as="sourcePoint" />
-            <mxPoint x="200" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-98" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-89" target="FSVm9eB2s7LNulcu65-q-88">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="390" as="sourcePoint" />
-            <mxPoint x="190" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-99" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="FSVm9eB2s7LNulcu65-q-88">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="399.16999999999996" as="sourcePoint" />
-            <mxPoint x="210" y="399.16999999999996" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-100" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-93" target="FSVm9eB2s7LNulcu65-q-88">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="610" as="sourcePoint" />
-            <mxPoint x="180" y="610" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="-50" y="620" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-101" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-94">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
