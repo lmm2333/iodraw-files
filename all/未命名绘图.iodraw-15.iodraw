@@ -22,7 +22,7 @@
         <mxCell id="FSVm9eB2s7LNulcu65-q-13" value="艺术家 / 歌手" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="200" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-14" value="艺术家 / 歌手" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FSVm9eB2s7LNulcu65-q-14" value="歌曲名称" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="200" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
