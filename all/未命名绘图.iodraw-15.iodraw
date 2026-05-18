@@ -103,7 +103,7 @@
         <mxCell id="FSVm9eB2s7LNulcu65-q-95" value="歌曲名称" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="320" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-96" value="发行日期" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FSVm9eB2s7LNulcu65-q-96" value="榜单记录唯一 ID" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="550" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-97" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-92" target="FSVm9eB2s7LNulcu65-q-88">
