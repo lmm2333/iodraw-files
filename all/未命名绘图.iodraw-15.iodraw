@@ -118,7 +118,7 @@
             <mxPoint x="200" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-124" value="榜单实体" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="FSVm9eB2s7LNulcu65-q-124" value="用户信息实体" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="790" y="530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-125" value="国家 / 地区代码（如 US、CN）" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
