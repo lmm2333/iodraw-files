@@ -118,6 +118,45 @@
             <mxPoint x="200" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FSVm9eB2s7LNulcu65-q-124" value="榜单实体" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="790" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FSVm9eB2s7LNulcu65-q-125" value="国家 / 地区代码（如 US、CN）" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="670" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSVm9eB2s7LNulcu65-q-126" value="关联" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1004" y="600" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSVm9eB2s7LNulcu65-q-127" value="该地区播放量" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="670" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSVm9eB2s7LNulcu65-q-128" value="榜单记录唯一 ID" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="610" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSVm9eB2s7LNulcu65-q-129" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-126" target="FSVm9eB2s7LNulcu65-q-124">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="380" as="sourcePoint" />
+            <mxPoint x="830" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSVm9eB2s7LNulcu65-q-130" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-124" target="FSVm9eB2s7LNulcu65-q-128">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="390" as="sourcePoint" />
+            <mxPoint x="850" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSVm9eB2s7LNulcu65-q-131" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-124" target="FSVm9eB2s7LNulcu65-q-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="530" as="sourcePoint" />
+            <mxPoint x="990" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSVm9eB2s7LNulcu65-q-132" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-127" target="FSVm9eB2s7LNulcu65-q-124">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="680" as="sourcePoint" />
+            <mxPoint x="840" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
