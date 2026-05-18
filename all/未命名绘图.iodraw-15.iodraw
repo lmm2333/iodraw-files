@@ -29,7 +29,7 @@
           <mxGeometry x="270" y="210" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-16" value="歌曲名称" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="360" width="100" height="60" as="geometry" />
+          <mxGeometry x="180" y="310" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
