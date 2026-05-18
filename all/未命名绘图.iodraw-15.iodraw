@@ -22,6 +22,9 @@
         <mxCell id="FSVm9eB2s7LNulcu65-q-7" value="播放量" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="320" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FSVm9eB2s7LNulcu65-q-8" value="全球排行" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="130" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
