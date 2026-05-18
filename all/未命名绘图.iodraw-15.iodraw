@@ -10,20 +10,26 @@
         <mxCell id="FSVm9eB2s7LNulcu65-q-9" value="艺术家 / 歌手" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="-10" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-10" value="艺术家 / 歌手" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FSVm9eB2s7LNulcu65-q-10" value="Spotify 热度评分" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="70" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-11" value="Spotify 歌曲唯一 ID" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="50" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-12" value="所属专辑" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="270" width="100" height="60" as="geometry" />
+          <mxGeometry x="30" y="300" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-13" value="音乐流派" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="200" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-14" value="歌曲名称" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSVm9eB2s7LNulcu65-q-15" value="歌曲名称" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSVm9eB2s7LNulcu65-q-16" value="歌曲名称" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="360" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
