@@ -7,8 +7,11 @@
         <mxCell id="FSVm9eB2s7LNulcu65-q-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-2" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="100" width="120" height="80" as="geometry" />
+        <mxCell id="FSVm9eB2s7LNulcu65-q-2" value="榜单记录" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FSVm9eB2s7LNulcu65-q-3" value="榜单记录" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="110" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
