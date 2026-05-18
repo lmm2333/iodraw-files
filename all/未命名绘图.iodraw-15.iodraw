@@ -19,6 +19,9 @@
         <mxCell id="FSVm9eB2s7LNulcu65-q-12" value="所属专辑" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="170" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FSVm9eB2s7LNulcu65-q-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-13" target="FSVm9eB2s7LNulcu65-q-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-13" value="音乐流派" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="80" width="100" height="60" as="geometry" />
         </mxCell>
@@ -28,7 +31,7 @@
         <mxCell id="FSVm9eB2s7LNulcu65-q-15" value="歌曲名称" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="-60" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-16" value="歌曲名称" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FSVm9eB2s7LNulcu65-q-16" value="发行日期" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="170" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
