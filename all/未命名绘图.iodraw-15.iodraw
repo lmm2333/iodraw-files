@@ -158,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-133" value="加密存储的密码" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="680" width="100" height="60" as="geometry" />
+          <mxGeometry x="960" y="510" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
