@@ -109,7 +109,7 @@
         <mxCell id="jMJbFlJxlnwek9MKlftg-30" value="特征选择与构建" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="669" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jMJbFlJxlnwek9MKlftg-32" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="jMJbFlJxlnwek9MKlftg-32" value="标准化与归一化" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="669" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
