@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FSVm9eB2s7LNulcu65-q-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-8" target="FSVm9eB2s7LNulcu65-q-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-8" value="歌曲信息" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="140" y="160" width="80" height="80" as="geometry" />
         </mxCell>
@@ -175,7 +178,7 @@
         <mxCell id="FSVm9eB2s7LNulcu65-q-167" value="收藏1记录唯一ID" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-168" value="Spotify 歌曲唯一 ID" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FSVm9eB2s7LNulcu65-q-168" value="收藏时间" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="955" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-172" value="关联歌手信息" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
