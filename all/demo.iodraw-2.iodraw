@@ -181,20 +181,8 @@
         <mxCell id="FSVm9eB2s7LNulcu65-q-170" value="音乐流派" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="90" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-171" value="歌曲时长（毫秒）" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="80" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-172" value="歌曲名称" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="845" y="-50" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-173" value="发行日期" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="180" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-174" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="FSVm9eB2s7LNulcu65-q-165">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="645" y="210" as="sourcePoint" />
-            <mxPoint x="855" y="270" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-175" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-166" target="FSVm9eB2s7LNulcu65-q-165">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -212,18 +200,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="675" y="240" as="sourcePoint" />
             <mxPoint x="835" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-178" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-171">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="775" y="20" as="sourcePoint" />
-            <mxPoint x="845" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FSVm9eB2s7LNulcu65-q-179" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-165" target="FSVm9eB2s7LNulcu65-q-173">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="785" y="30" as="sourcePoint" />
-            <mxPoint x="865" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-180" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
