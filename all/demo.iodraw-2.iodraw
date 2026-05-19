@@ -204,6 +204,9 @@
             <mxPoint x="860" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FSVm9eB2s7LNulcu65-q-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-165" target="FSVm9eB2s7LNulcu65-q-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-165" value="收藏实体" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="805" y="170" width="80" height="80" as="geometry" />
         </mxCell>
