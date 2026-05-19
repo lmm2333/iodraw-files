@@ -7,6 +7,12 @@
         <mxCell id="7fXMxnSM_qgK1rQ2murJ-3" value="&lt;div style=&quot;margin-top: 6pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; font-size: 10pt; font-family: 宋体;&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;基于&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;python&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;的&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Spotify&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;全球数据可视化分析系统&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="70" width="320" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7fXMxnSM_qgK1rQ2murJ-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7fXMxnSM_qgK1rQ2murJ-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
