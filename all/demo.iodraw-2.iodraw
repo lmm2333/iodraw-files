@@ -18,7 +18,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FSVm9eB2s7LNulcu65-q-8" target="FSVm9eB2s7LNulcu65-q-88">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FSVm9eB2s7LNulcu65-q-8" value="歌曲信息" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="140" y="160" width="80" height="80" as="geometry" />
