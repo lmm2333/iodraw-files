@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jMJbFlJxlnwek9MKlftg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="40" width="700" height="260" as="geometry" />
+          <mxGeometry x="390" y="325" width="700" height="260" as="geometry" />
         </mxCell>
         <mxCell id="jMJbFlJxlnwek9MKlftg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jMJbFlJxlnwek9MKlftg-4" target="jMJbFlJxlnwek9MKlftg-5">
           <mxGeometry relative="1" as="geometry" />
@@ -37,17 +37,17 @@
         <mxCell id="jMJbFlJxlnwek9MKlftg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jMJbFlJxlnwek9MKlftg-4" target="jMJbFlJxlnwek9MKlftg-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jMJbFlJxlnwek9MKlftg-4" value="&lt;div style=&quot;margin-top: 6pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; font-size: 10pt; font-family: 宋体;&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;基于&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;python&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;的&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Spotify&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;全球数据可视化分析系统&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="80" width="320" height="60" as="geometry" />
+        <mxCell id="jMJbFlJxlnwek9MKlftg-4" value="&lt;div style=&quot;margin-top: 6pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; font-size: 10pt; font-family: 宋体;&quot; class=&quot;O0&quot;&gt;基础理论和相关技术&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="365" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jMJbFlJxlnwek9MKlftg-5" value="&lt;div style=&quot;margin-top: 6pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; font-size: 10pt; font-family: 宋体;&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-size:10.0pt&quot;&gt;•&lt;/span&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;研究背景以及意义&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jMJbFlJxlnwek9MKlftg-6" value="&lt;div style=&quot;margin-top: 6pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; font-size: 10pt; font-family: 宋体;&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;国内外研究现状&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="679" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="669" y="475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jMJbFlJxlnwek9MKlftg-7" value="&lt;div style=&quot;margin-top: 6pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; font-size: 10pt; font-family: 宋体;&quot; class=&quot;O0&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;研究内容与框架&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jMJbFlJxlnwek9MKlftg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.428;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jMJbFlJxlnwek9MKlftg-4" target="jMJbFlJxlnwek9MKlftg-6">
           <mxGeometry relative="1" as="geometry" />
