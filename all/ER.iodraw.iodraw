@@ -290,6 +290,9 @@
         <mxCell id="dEIDMrfg48loQyWos6ge-19" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="420" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="dEIDMrfg48loQyWos6ge-24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-100" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
