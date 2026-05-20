@@ -124,8 +124,8 @@
         <mxCell id="jMJbFlJxlnwek9MKlftg-37" value="相关技术与理论基础" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jMJbFlJxlnwek9MKlftg-38" value="&lt;span style=&quot;font-size:12.0pt;font-family:宋体;&#xa;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&#xa;mso-font-kerning:1.0pt;mso-ligatures:standardcontextual;mso-ansi-language:EN-US;&#xa;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;数据与算法实现&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="930" width="150" height="40" as="geometry" />
+        <mxCell id="jMJbFlJxlnwek9MKlftg-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
