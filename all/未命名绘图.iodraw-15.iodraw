@@ -45,7 +45,7 @@
         </mxCell>
         <object label="医生用户" id="gMbyDZ1rTRanOs4xciXk-17">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-            <mxGeometry x="140" y="502" width="30" height="60" as="geometry" />
+            <mxGeometry x="140" y="620" width="30" height="60" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-18" value="系统登陆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -68,13 +68,13 @@
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gMbyDZ1rTRanOs4xciXk-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="540" as="sourcePoint" />
+            <mxPoint x="170" y="650" as="sourcePoint" />
             <mxPoint x="340" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gMbyDZ1rTRanOs4xciXk-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="540" as="sourcePoint" />
+            <mxPoint x="170" y="650" as="sourcePoint" />
             <mxPoint x="340" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
