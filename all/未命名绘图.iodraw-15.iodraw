@@ -178,13 +178,13 @@
           <mxGeometry x="515" y="1600" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-59" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;账号管理，用户注册、账号登录、个人信息修改、密码重置；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;信息查询，科室查询、医生信息查询、公告通知查看；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;预约挂号，在线预约、预约取消、预约记录查询；&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;就诊服务，个人就诊记录查询。&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="1220" width="523" height="80" as="geometry" />
+          <mxGeometry x="827" y="1200" width="523" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-60" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;个人中心，账号登录、个人资料修改、密码重置；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;排班管理，个人出诊排班查询；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;接诊管理，当日预约患者列表查看、就诊状态更新；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;诊疗管理，电子就诊记录填写、历史接诊记录查询。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1320" width="523" height="80" as="geometry" />
+          <mxGeometry x="820" y="1320" width="540" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-61" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;账号权限管理，患者账号管理、医生账号管理、权限分配；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;科室管理，科室新增、编辑、删除、科室信息维护；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;排班管理，医生排班新增、修改、删除、批量排班；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;预约管理，全院预约记录查询、异常预约处理；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;公告管理，公告发布、编辑、删除；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;数据运维，基础数据查看、日常数据维护。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="1420" width="523" height="80" as="geometry" />
+          <mxGeometry x="820" y="1420" width="590" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
