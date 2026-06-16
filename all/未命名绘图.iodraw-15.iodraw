@@ -157,13 +157,13 @@
           <mxGeometry x="160" y="1330" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1340" width="210" height="60" as="geometry" />
+          <mxGeometry x="495" y="1430" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1350" width="210" height="60" as="geometry" />
+          <mxGeometry x="495" y="1320" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="617" y="1120" width="210" height="60" as="geometry" />
+          <mxGeometry x="495" y="1160" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
