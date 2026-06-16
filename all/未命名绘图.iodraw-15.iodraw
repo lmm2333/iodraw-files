@@ -186,7 +186,7 @@
         <mxCell id="gMbyDZ1rTRanOs4xciXk-61" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;账号权限管理，患者账号管理、医生账号管理、权限分配；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;科室管理，科室新增、编辑、删除、科室信息维护；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;排班管理，医生排班新增、修改、删除、批量排班；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;预约管理，全院预约记录查询、异常预约处理；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;公告管理，公告发布、编辑、删除；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;数据运维，基础数据查看、日常数据维护。&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="1420" width="590" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="gMbyDZ1rTRanOs4xciXk-62" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: left; white-space: pre-wrap; background-color: rgba(0, 0, 0, 0.04);&quot;&gt;包含统一登录认证、路由控制、全局异常处理、接口公共请求与响应封装，为整个系统提供基础支撑能力。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gMbyDZ1rTRanOs4xciXk-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="1600" width="590" height="70" as="geometry" />
         </mxCell>
       </root>
