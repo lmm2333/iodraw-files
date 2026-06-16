@@ -43,44 +43,50 @@
             <mxPoint x="340" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gMbyDZ1rTRanOs4xciXk-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gMbyDZ1rTRanOs4xciXk-17" target="gMbyDZ1rTRanOs4xciXk-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-17" value="病患用例" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="440" width="30" height="60" as="geometry" />
+          <mxGeometry x="140" y="500" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-18" value="账号管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-19" value="信息查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-20" value="预约管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-21" value="记录查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gMbyDZ1rTRanOs4xciXk-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="480" as="sourcePoint" />
-            <mxPoint x="240" y="430" as="targetPoint" />
+            <mxPoint x="170" y="540" as="sourcePoint" />
+            <mxPoint x="230" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gMbyDZ1rTRanOs4xciXk-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="480" as="sourcePoint" />
-            <mxPoint x="350" y="360" as="targetPoint" />
+            <mxPoint x="170" y="540" as="sourcePoint" />
+            <mxPoint x="340" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gMbyDZ1rTRanOs4xciXk-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="480" as="sourcePoint" />
-            <mxPoint x="350" y="440" as="targetPoint" />
+            <mxPoint x="170" y="540" as="sourcePoint" />
+            <mxPoint x="340" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gMbyDZ1rTRanOs4xciXk-17" target="gMbyDZ1rTRanOs4xciXk-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="510" as="sourcePoint" />
-            <mxPoint x="350" y="520" as="targetPoint" />
+            <mxPoint x="210" y="570" as="sourcePoint" />
+            <mxPoint x="340" y="580" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gMbyDZ1rTRanOs4xciXk-26" value="病患用例" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="640" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
