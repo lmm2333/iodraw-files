@@ -162,8 +162,8 @@
         <mxCell id="gMbyDZ1rTRanOs4xciXk-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="1320" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gMbyDZ1rTRanOs4xciXk-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="1200" width="210" height="60" as="geometry" />
+        <mxCell id="gMbyDZ1rTRanOs4xciXk-48" value="患者端功能模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1210" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
