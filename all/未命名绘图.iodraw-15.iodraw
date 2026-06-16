@@ -115,7 +115,7 @@
           <mxGeometry x="540" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-35" value="账号登陆" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-36" value="排版查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="170" width="120" height="60" as="geometry" />
@@ -124,7 +124,7 @@
           <mxGeometry x="1000" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-38" value="诊疗记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gMbyDZ1rTRanOs4xciXk-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
