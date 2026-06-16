@@ -43,7 +43,7 @@
             <mxPoint x="340" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <object label="病患用例" id="gMbyDZ1rTRanOs4xciXk-17">
+        <object label="医生用户" id="gMbyDZ1rTRanOs4xciXk-17">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
             <mxGeometry x="140" y="502" width="30" height="60" as="geometry" />
           </mxCell>
