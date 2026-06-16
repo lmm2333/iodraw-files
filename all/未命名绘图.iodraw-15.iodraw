@@ -62,7 +62,7 @@
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gMbyDZ1rTRanOs4xciXk-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="540" as="sourcePoint" />
+            <mxPoint x="170" y="650" as="sourcePoint" />
             <mxPoint x="230" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -92,6 +92,12 @@
         </mxCell>
         <mxCell id="gMbyDZ1rTRanOs4xciXk-30" value="基础运维" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMbyDZ1rTRanOs4xciXk-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="gMbyDZ1rTRanOs4xciXk-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="830" as="sourcePoint" />
+            <mxPoint x="210" y="780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
