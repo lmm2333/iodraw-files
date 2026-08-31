@@ -122,43 +122,43 @@
             <mxPoint x="-13" y="-50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="coEAAb9rr6hKMt4f93-K-32" value="医生用例" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="580" width="30" height="60" as="geometry" />
+        <mxCell id="coEAAb9rr6hKMt4f93-K-32" value="管理员用例" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="840" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="coEAAb9rr6hKMt4f93-K-33" value="账号登陆" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="500" width="130" height="50" as="geometry" />
+          <mxGeometry x="250" y="760" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="coEAAb9rr6hKMt4f93-K-34" value="诊疗记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="680" width="130" height="50" as="geometry" />
+          <mxGeometry x="250" y="940" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="coEAAb9rr6hKMt4f93-K-35" value="排班管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="560" width="130" height="50" as="geometry" />
+          <mxGeometry x="250" y="820" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="coEAAb9rr6hKMt4f93-K-36" value="接诊管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="620" width="130" height="50" as="geometry" />
+          <mxGeometry x="250" y="880" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="coEAAb9rr6hKMt4f93-K-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="coEAAb9rr6hKMt4f93-K-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="620" as="sourcePoint" />
-            <mxPoint x="190" y="570" as="targetPoint" />
+            <mxPoint x="130" y="880" as="sourcePoint" />
+            <mxPoint x="180" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="coEAAb9rr6hKMt4f93-K-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="coEAAb9rr6hKMt4f93-K-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="620" as="sourcePoint" />
-            <mxPoint x="270" y="715" as="targetPoint" />
+            <mxPoint x="130" y="880" as="sourcePoint" />
+            <mxPoint x="260" y="975" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="coEAAb9rr6hKMt4f93-K-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="620" as="sourcePoint" />
-            <mxPoint x="260" y="585" as="targetPoint" />
+            <mxPoint x="130" y="880" as="sourcePoint" />
+            <mxPoint x="250" y="845" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="coEAAb9rr6hKMt4f93-K-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="620" as="sourcePoint" />
-            <mxPoint x="260" y="525" as="targetPoint" />
+            <mxPoint x="130" y="880" as="sourcePoint" />
+            <mxPoint x="250" y="785" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="coEAAb9rr6hKMt4f93-K-41" value="#include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="coEAAb9rr6hKMt4f93-K-40">
@@ -167,17 +167,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="coEAAb9rr6hKMt4f93-K-42" value="#include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="210.00389507924967" y="670.0002497289273" as="geometry">
+          <mxGeometry x="200.00389507924967" y="930.0002497289273" as="geometry">
             <mxPoint x="-3" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="coEAAb9rr6hKMt4f93-K-43" value="#include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="220.00389507924967" y="680.0002497289273" as="geometry">
+          <mxGeometry x="210.00389507924967" y="940.0002497289273" as="geometry">
             <mxPoint x="-13" y="-50" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="coEAAb9rr6hKMt4f93-K-44" value="#include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="220.00389507924967" y="650.0002497289273" as="geometry">
+          <mxGeometry x="210.00389507924967" y="910.0002497289273" as="geometry">
             <mxPoint x="-13" y="-50" as="offset" />
           </mxGeometry>
         </mxCell>
