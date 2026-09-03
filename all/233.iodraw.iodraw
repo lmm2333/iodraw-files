@@ -43,16 +43,6 @@
             <mxPoint x="240" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="coEAAb9rr6hKMt4f93-K-16" value="#include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="190.00389507924967" y="360.0002497289273" as="geometry">
-            <mxPoint x="-3" y="-5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="coEAAb9rr6hKMt4f93-K-17" value="#include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="200.00389507924967" y="370.0002497289273" as="geometry">
-            <mxPoint x="-13" y="-50" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="coEAAb9rr6hKMt4f93-K-19" value="医生用例" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="570" width="30" height="60" as="geometry" />
         </mxCell>
@@ -90,11 +80,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="610" as="sourcePoint" />
             <mxPoint x="250" y="515" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="coEAAb9rr6hKMt4f93-K-28" value="#include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="coEAAb9rr6hKMt4f93-K-27" vertex="1" connectable="0">
-          <mxGeometry x="0.1159" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="coEAAb9rr6hKMt4f93-K-29" value="#include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
